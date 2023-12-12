@@ -5,8 +5,9 @@ Date: June 23rd, 2022
 ---
 
 ### Introduction
-Cryptocurrency is a digital currency in the modern finance system. It’s an end-to-end system, enabling anyone anywhere to send and receive payments. Instead of physical money carried around and exchanged in the real world, cryptocurrency payments exist purely as digital entries in cyberspace. As a result, the interest in crypto investment increased dramatically. In this project, I try to implement stack LSTM to predict the future price of the two most widely used cryptocurrencies, BITCOIN and ETHEREUM.
+In the bustling city of New York, bus delays can have a significant impact on the daily commute and overall urban mobility. Understanding and predicting these delays is crucial for improving transit efficiency and passenger satisfaction. This project, NYC Bus Delay Prediction, leverages machine learning techniques to forecast bus delays in New York City.
 
+My approach involves a comprehensive analysis of public transit data, primarily focusing on factors that contribute to bus delays. By harnessing the power of data science and machine learning algorithms, we aim to provide a robust predictive model that can aid city planners, transit authorities, and the general public in anticipating and managing bus delays more effectively.
 
 
 The Project is divided by 3 chapters: 
